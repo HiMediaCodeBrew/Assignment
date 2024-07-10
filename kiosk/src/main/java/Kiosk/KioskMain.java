@@ -5,5 +5,6 @@ public class KioskMain {
     public static void main(String[] args) {
 
         DTO dto = new DTO();
+        System.out.println("==============");
     }
 }
