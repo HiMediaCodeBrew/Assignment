@@ -6,5 +6,7 @@ public class KioskMain {
 
         DTO dto = new DTO();
         System.out.println("==============");
+        System.out.println("Test1");
+        System.out.println("Test2");
     }
 }
